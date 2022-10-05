@@ -36,8 +36,8 @@
 
 <a href="https://www.facebook.com/arya.vinayak.7/"><img height="40px" width="40" src ="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" alt="Facebook"></a>&nbsp;
 <a href="https://www.instagram.com/arya__vinayak/"><img height="40px" width="40" src ="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" alt="Instagram"></a>&nbsp;
-<a href="https://www.linkedin.com/in/ankush-h-v-14901a224"><img height="40px" width="40" src ="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt="LinkedIN"></a>&nbsp;
-<a href="https://www.linkedin.com/in/arya-vinayak-b43255237/"><img height="40px" width="40" src ="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/arya-vinayak-b43255237/"><img height="40px" width="40" src ="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt="LinkedIN"></a>&nbsp;
+<a href="https://github.com/arya-vinayak"><img height="40px" width="40" src ="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png" alt="GitHub"></a>
 
 <!---
 arya-vinayak/arya-vinayak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
