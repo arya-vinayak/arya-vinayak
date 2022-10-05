@@ -1,14 +1,14 @@
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="👋" width="40" height="40"/>&nbsp; I'm Ankush
-- 👀 I’m interested in Web Development
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="👋" width="40" height="40"/>&nbsp; I'm Arya
+- 👀 I’m discovering 
 - 🌱 I’m currently pursuing B.Tech Computer Science Engineering at PES University
 - 💞️ I’m looking to collaborate on anything 
-- Email : anshhv2003@gmail.com
+- Email : aryavinayak2003@gmail.com
 ---
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ankush-003&theme=dark&background=000000)](https://git.io/streak-stats)</br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arya-vinayak&theme=dark&background=000000)](https://git.io/streak-stats)</br>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankush-003&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
-![Ankush's github stats](https://github-readme-stats.vercel.app/api?username=ankush-003&theme=tokyonight)</br>
-[![Ankush's github activity graph](https://activity-graph.herokuapp.com/graph?username=ankush-003&bg_color=000000&color=ffffff&line=ffffff&point=ff7800&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Arya's github stats](https://github-readme-stats.vercel.app/api?username=arya-vinayak&theme=tokyonight)</br>
+[![Arya's github activity graph](https://activity-graph.herokuapp.com/graph?username=arya-vinayak&bg_color=000000&color=ffffff&line=ffffff&point=ff7800&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 ### :technologist: Learning :
@@ -33,13 +33,13 @@
 
 ---
 ### 📫 Connect with me on:
-<a href="https://twitter.com/9f49bd1f004745a"><img height="40px" width="40" src ="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" alt="Twitter"></a>&nbsp;
-<a href="https://www.facebook.com/ankush.hv"><img height="40px" width="40" src ="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" alt="Facebook"></a>&nbsp;
-<a href="https://www.instagram.com/ankush.2.9/"><img height="40px" width="40" src ="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" alt="Instagram"></a>&nbsp;
+
+<a href="https://www.facebook.com/arya.vinayak.7/"><img height="40px" width="40" src ="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" alt="Facebook"></a>&nbsp;
+<a href="https://www.instagram.com/arya__vinayak/"><img height="40px" width="40" src ="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" alt="Instagram"></a>&nbsp;
 <a href="https://www.linkedin.com/in/ankush-h-v-14901a224"><img height="40px" width="40" src ="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt="LinkedIN"></a>&nbsp;
-<a href="http://www.github.com/ankush-003"><img height="40px" width="40" src ="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/arya-vinayak-b43255237/"><img height="40px" width="40" src ="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png" alt="GitHub"></a>
 
 <!---
-ankush-003/ankush-003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+arya-vinayak/arya-vinayak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
