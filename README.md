@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arya-vinayak" alt="arya-vinayak" /></a> </p>
 
-- 🔭 I’m currently working on **Big Data and Machine Learning Projects**
+- 🔭 I’m currently working on **Web Devlopment and Machine Learning Projects**
 
-- 🌱 I’m currently learning **GoLang and Big Data tools like Kafka,Apache Spark,Hadoop**
+- 🌱 I’m currently learning **LLM's and Agents using tools like Olama,LangChain**
 
 - 👯 I’m looking to collaborate on **any projects that makes a change**
 
